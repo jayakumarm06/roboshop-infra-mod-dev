@@ -26,10 +26,7 @@ variable "components" {
       rule_priority = 10
       app_version   = "v4"
     }
-    catalogue = {
-      rule_priority = 10
-      app_version   = "v4"
-    }
+
     user = {
       rule_priority = 20
       app_version   = "v4"
