@@ -27,10 +27,10 @@ variable "components" {
       app_version   = "v4"
     }
 
-    user = {
-      rule_priority = 20
-      app_version   = "v4"
-    }
+    # user = {
+    #   rule_priority = 20
+    #   app_version   = "v4"
+    # }
   }
 
 }
