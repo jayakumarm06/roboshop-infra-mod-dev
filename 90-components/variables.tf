@@ -31,6 +31,18 @@ variable "components" {
       rule_priority = 20
       app_version   = "v4"
     }
+    # cart = {
+    #   rule_priority = 30
+    #   app_version   = "v4"
+    # }
+    # shipping = {
+    #   rule_priority = 40
+    #   app_version   = "v4"
+    # }
+    # payment = {
+    #   rule_priority = 50
+    #   app_version   = "v4"
+    # }
   }
 
 }
